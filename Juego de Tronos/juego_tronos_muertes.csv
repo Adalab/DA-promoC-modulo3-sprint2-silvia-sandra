@@ -1,0 +1,207 @@
+,name,allegiance,season,episode,location,killer,killers_house,method,death_no
+0,Waymar Royce,Night's Watch,1,1,Beyond the Wall,White Walker,None,Ice sword,1
+1,Gared,Night's Watch,1,1,Beyond the Wall,White Walker,None,Ice sword,2
+2,Will,Night's Watch,1,1,Winterfell,Ned Stark,House Stark,Sword,3
+3,Stag,None,1,1,Winterfell,Direwolf,None,Teeth,4
+4,Direwolf,None,1,1,Winterfell,Stag,None,Antler,5
+5,Jon Arryn,House Arryn,1,1,King's Landing,Lysa Arryn,House Arryn,Poison,6
+7,Catspaw assassin,None,1,2,Winterfell,Summer,House Stark,Teeth,8
+8,Mycah,Smallfolk,1,2,Kingsroad,"Sandor ""the Hound"" Clegane",House Lannister,Sword,9
+9,Lady,House Stark,1,2,Kingsroad,Ned Stark,House Stark,Knife,10
+10,Ser Hugh of the Vale,House Arryn,1,4,King's Landing,"Gregor ""the Mountain"" Clegane",House Lannister,Spear,11
+11,Clegane's horse,House Clegane,1,5,King's Landing,"Gregor ""the Mountain"" Clegane",House Lannister,Sword,12
+27,Jory Cassel,House Stark,1,5,King's Landing,Jaime Lannister,House Lannister,Knife,28
+28,Wallen,Free Folk,1,6,Winterfell,Robb Stark,House Stark,Sword,29
+30,Stiv,Free Folk,1,6,Winterfell,Theon Greyjoy,House Bolton,Arrow,31
+31,Vardis Egen,House Arryn,1,6,The Eyrie,Bronn,House Lannister,Sword,32
+32,Viserys Targaryen,House Targaryen,1,6,Vaes Dothrak,Khal Drogo,Dothraki,Molten gold,33
+33,Robert Baratheon,House Baratheon of King's Landing,1,7,King's Landing,Boar,None,Tusk,34
+40,Vayon Poole,House Stark,1,8,King's Landing,Lannister soldier,House Lannister,Sword,41
+43,Septa Mordane,House Stark,1,8,King's Landing,Lannister soldier,House Lannister,Sword,44
+44,Syrio Forel,House Stark,1,8,King's Landing,Meryn Trant,House Trant,Sword,45
+45,Stableboy,Smallfolk,1,8,King's Landing,Arya Stark,House Stark,Sword,46
+46,Othor,None,1,8,Castle Black,Jon Snow,House Stark,Fire,47
+47,Jafer Flowers,None,1,8,Castle Black,Night's Watch brother,Night's Watch,Fire,48
+48,Mago,Dothraki,1,8,Lhazar,Khal Drogo,Dothraki,Hands,49
+49,Drogo's horse,Dothraki,1,9,Red Waste,Mirri Maz Duur,None,Knife,50
+50,Qotho,Dothraki,1,9,Red Waste,Jorah Mormont,House Targaryen,Sword,51
+54,Ned Stark,House Stark,1,9,King's Landing,Ilyn Payne,House Payne,Sword,55
+55,Rhaego,Dothraki,1,10,Red Waste,Mirri Maz Duur,None,Magic,56
+56,Khal Drogo,Dothraki,1,10,Red Waste,Daenerys Targaryen,House Targaryen,Pillow,57
+57,Mirri Maz Duur,None,1,10,Red Waste,Daenerys Targaryen,House Targaryen,Fire,58
+58,Knight,None,2,1,King's Landing,"Sandor ""the Hound"" Clegane",House Lannister,Mace,59
+59,The Silver,House Targaryen,2,1,Red Waste,None,None,Starvation,60
+60,Maester Cressen,House Baratheon of Dragonstone,2,1,Dragonstone,"Melisandre ""the Red Woman"" of Asshai",Lord of Light,Poison,61
+61,Barra (Baratheon illegitimate son),Smallfolk,2,1,King's Landing,Janos Slynt,Night's Watch,Knife,62
+65,Rakharo,House Targaryen,2,2,Red Waste,Rival Dothraki,Dothraki,Unknown,66
+71,Yoren,Night's Watch,2,3,Riverlands,Amory Lorch,House Lannister,Sword,72
+72,Night's Watch recruit,Night's Watch,2,3,Riverlands,Lannister soldier,House Lannister,Spear,73
+73,Lommy Greenhands,Smallfolk,2,3,Riverlands,Polliver,House Baratheon of King's Landing,Sword,74
+74,Rennick,House Lannister,2,4,Oxcross,Grey Wind,House Stark,Teeth,75
+77,Renly Baratheon,House Baratheon of Storm's End,2,5,Storm's End,"Melisandre ""the Red Woman"" of Asshai",Lord of Light,Shadow Demon,78
+80,The Tickler,House Clegane,2,5,Harrenhal,Jaqen H'ghar,Faceless Men,Unknown,81
+81,Rodrik Cassel,House Stark,2,6,Winterfell,Theon Greyjoy,House Bolton,Sword,82
+84,High Septon,Faith of the Seven,2,6,King's Landing,Peasants,None,Hands,85
+90,Amory Lorch,House Lannister,2,6,Harrenhal,Jaqen H'ghar,Faceless Men,Poison dart,91
+91,Drennan,House Greyjoy,2,6,Winterfell,Osha,House Stark,Knife,92
+92,Irri,House Targaryen,2,6,Qarth,Unknown,Unknown,Unknown,93
+93,Alton Lannister,House Lannister,2,7,Robb Stark's camp,Jaime Lannister,House Lannister,Hands,94
+94,Torrhen Karstark,House Stark,2,7,Robb Stark's camp,Jaime Lannister,House Lannister,Hands,95
+95,The Spice King,The Thirteen,2,7,Qarth,Pyat Pree,Warlocks of Qarth,Knife,96
+96,The Silk King,The Thirteen,2,7,Qarth,Pyat Pree,Warlocks of Qarth,Knife,97
+97,The Copper King,The Thirteen,2,7,Qarth,Pyat Pree,Warlocks of Qarth,Knife,98
+106,Billy,Smallfolk,2,7,Winterfell,Theon Greyjoy,House Bolton,Fire,107
+107,Jack,Smallfolk,2,7,Winterfell,Theon Greyjoy,House Bolton,Fire,108
+108,Matthos Seaworth,House Baratheon of Dragonstone,2,9,King's Landing,Bronn,House Lannister,Wildfire,109
+170,Mandon Moore,House Moore,2,9,King's Landing,Podrick Payne,House Lannister,Spear,171
+183,Maester Luwin,House Stark,2,10,Winterfell,Osha,House Stark,Knife,184
+184,Pyat Pree,Warlocks of Qarth,2,10,Qarth,Daenerys Targaryen,House Targaryen,Dragonfire (Dragon),185
+185,Qhorin Halfhand,Night's Watch,2,10,Beyond the Wall,Jon Snow,House Stark,Sword,186
+186,Xaro Xhoan Daxos,The Thirteen,2,10,Qarth,Daenerys Targaryen,House Targaryen,Sealed into vault,187
+187,Doreah,House Targaryen,2,10,Qarth,Daenerys Targaryen,House Targaryen,Sealed into vault,188
+188,Manticore,None,3,1,Astapor,Barristan Selmy,House Targaryen,Knife,189
+189,Hoster Tully,House Tully,3,2,Riverrun,None,None,Illness,190
+194,Bannen,Night's Watch,3,4,Beyond the Wall,None,None,Broken foot,195
+195,Craster,Night's Watch,3,4,Beyond the Wall,Karl Tanner,Night's Watch,Knife,196
+196,Jeor Mormont,Night's Watch,3,4,Beyond the Wall,Rast,Night's Watch,Knife,197
+200,Kraznys mo Nakloz,Good Masters,3,4,Astapor,Daenerys Targaryen,House Targaryen,Dragonfire (Dragon),201
+206,Willem Lannister,House Lannister,3,5,Riverrun,Karstark soldier,House Karstark,Unknown,207
+207,Martyn Lannister,House Lannister,3,5,Riverrun,Rickard Karstark,House Stark,Knife,208
+208,Rickard Karstark,House Stark,3,5,Riverrun,Robb Stark,House Stark,Sword,209
+215,Ros,House Baelish,3,6,King's Landing,Joffrey Baratheon,House Lannister,Arrow,216
+219,Mero,Second Sons,3,8,Yunkai,Daario Naharis,House Targaryen,Unknown,220
+220,Prendahl na Ghezn,Second Sons,3,8,Yunkai,Daario Naharis,House Targaryen,Unknown,221
+221,White Walker,None,3,8,Beyond the Wall,Sam Tarly,Night's Watch,Dragonglass,222
+222,Horse breeder,Night's Watch,3,9,The Gift,Ygritte,Free Folk,Arrow,223
+226,Orell,Free Folk,3,9,The Gift,Jon Snow,House Stark,Sword,227
+238,Unborn Stark child,House Stark,3,9,The Twins,Lothar Frey,House Frey,Knife,239
+239,Talisa Stark,House Stark,3,9,The Twins,Lothar Frey,House Frey,Knife,240
+261,Grey Wind,House Stark,3,9,The Twins,Frey soldier,House Frey,Arrow,262
+264,Robb Stark,House Stark,3,9,The Twins,Roose Bolton,House Bolton,Knife,265
+265,Joyeuse Frey,House Frey,3,9,The Twins,Catelyn Stark,House Stark,Knife,266
+266,Catelyn Stark,House Stark,3,9,The Twins,Walder Rivers,House Frey,Knife,267
+275,Lowell (King's Soldier),House Baratheon of King's Landing,4,1,Riverlands,"Sandor ""the Hound"" Clegane",House Clegane,Knife,276
+278,Polliver,House Baratheon of King's Landing,4,1,Riverlands,Arya Stark,House Stark,Sword,279
+279,Tansy,Smallfolk,4,2,Dreadfort,Ramsay Bolton,House Bolton,Dogs,280
+280,Axell Florent,House Baratheon of Dragonstone,4,2,Dragonstone,"Melisandre ""the Red Woman"" of Asshai",Lord of Light,Fire,281
+283,Deer,None,4,2,Beyond the Wall,Summer,House Stark,Teeth,284
+284,Joffrey Baratheon,House Lannister,4,2,King's Landing,Olenna Tyrell,House Tyrell,Poison,285
+285,Dontos Hollard,House Hollard,4,3,King's Landing,Baelish soldier,House Baelish,Arrow,286
+286,Guymon,Smallfolk,4,3,The Gift,Ygritte,Free Folk,Arrow,287
+287,Olly's mum,Smallfolk,4,3,The Gift,Styr,Free Folk,Axe,288
+294,Champion of Meereen's Horse,None,4,3,Meereen,Daario Naharis,House Targaryen,Knife,295
+295,Champion of Meereen,Great Masters,4,3,Meereen,Daario Naharis,House Targaryen,Arakh,296
+296,Meereen slave master,Great Masters,4,4,Meereen,Meereen slaves,None,Unknown,297
+307,Locke,House Bolton,4,5,Beyond the Wall,Hodor/Bran Stark,House Stark,Hands,308
+310,Karl Tanner,Night's Watch,4,5,Beyond the Wall,Jon Snow,House Stark,Sword,311
+312,Rast,Night's Watch,4,5,Beyond the Wall,Ghost,House Stark,Teeth,313
+316,Greyjoy soldier,House Greyjoy,4,6,Dreadfort,Ramsay Bolton,House Bolton,Knife,317
+319,Goat,None,4,6,Meereen,Daenerys Targaryen,House Targaryen,Dragonfire (Dragon),320
+324,Biter,None,4,7,Riverlands,"Sandor ""the Hound"" Clegane",House Clegane,Hands,325
+325,Rorge,None,4,7,Riverlands,Arya Stark,House Stark,Sword,326
+326,Lysa Arryn,House Baelish,4,7,The Eyrie,Petyr Baelish,House Baelish,Moon Door,327
+337,Ralf Kenning,House Greyjoy,4,8,Moat Cailin,Greyjoy soldier,House Greyjoy,Axe,338
+338,Oberyn Martell,House Martell,4,8,King's Landing,"Gregor ""the Mountain"" Clegane",House Lannister,Hands,339
+376,Pypar,Night's Watch,4,9,Castle Black,Ygritte,Free Folk,Arrow,377
+395,Giant wildling,Free Folk,4,9,Beyond the Wall,Night's Watch brother,Night's Watch,Giant arrow,396
+398,Grenn,Night's Watch,4,9,Castle Black,Wildling giant,Free Folk,Unknown,399
+399,Mag the Mighty giant,Free Folk,4,9,Castle Black,Grenn,Night's Watch,Unknown,400
+413,Styr,Free Folk,4,9,Castle Black,Jon Snow,House Stark,Hammer,414
+414,Ygritte,Free Folk,4,9,Castle Black,Olly,Night's Watch,Arrow,415
+439,Zalla,Smallfolk,4,10,Meereen,Daenerys Targaryen,House Targaryen,Dragonfire (Dragon),440
+440,Jojen Reed,House Stark,4,10,Beyond the Wall,Meera Reed,House Stark,Knife,441
+441,"Sandor ""The Hound"" Clegane",House Clegane,4,10,The Vale,Brienne of Tarth,House Tarth,Hands,442
+442,Shae,House Lannister,4,10,King's Landing,Tyrion Lannister,House Lannister,Hands/Necklace,443
+443,Tywin Lannister,House Lannister,4,10,King's Landing,Tyrion Lannister,House Lannister,Arrow,444
+444,White Rat,House Targaryen,5,1,Meereen,Sons of the Harpy agent,Sons of the Harpy,Knife,445
+445,Mance Rayder,Free Folk,5,1,Castle Black,Jon Snow,Night's Watch,Arrow,446
+449,Unamed Dwarf,Smallfolk,5,2,King's Landing,Peasant,Smallfolk,Unknown,450
+452,Meereen slave,None,5,2,Meereen,Daario Naharis,House Targaryen,Arakh,453
+457,Janos Slynt,Night's Watch,5,3,Castle Black,Jon Snow,Night's Watch,Sword,458
+458,Rat,None,5,3,King's Landing,Qyburn,House Lannister,Knife,459
+459,Snake,None,5,4,Dorne,Bronn,House Lannister,Knife,460
+462,Dorne Horse,House Martell,5,4,Dorne,Bronn,House Lannister,Sword,463
+464,Dorne Smuggler,None,5,4,Dorne,Obara Sand,House Martell,Spear,465
+506,Barristan Selmy,House Targaryen,5,4,Meereen,Sons of the Harpy agent,Sons of the Harpy,Sword,507
+508,Stone Man,None,5,5,Valyria,Jorah Mormont,House Targaryen,Sword,509
+510,Aemon Targaryen,Night's Watch,5,7,Castle Black,Aemon Targaryen,Night's Watch,Old Age,511
+512,Wildling Leader,Free Folk,5,8,Hardhome,Tormund,Free Folk,Mallet,513
+522,Loboda,Free Folk,5,8,Hardhome,White Walker,White Walkers,Spear,523
+523,Karsi,Free Folk,5,8,Hardhome,Wight,White Walkers,Teeth,524
+537,Shireen Baratheon,House Baratheon of Dragonstone,5,9,Kingsroad,"Melisandre ""the Red Woman"" of Asshai",Lord of Light,Fire,538
+554,Hizdahr zo Loraq,Wise Masters,5,9,Meereen,Sons of the Harpy agent,Sons of the Harpy,Knife,555
+593,Selyse Florent,House Baratheon of Dragonstone,5,10,Kingsroad,Selyse Florent,House Baratheon of Dragonstone,Rope,594
+594,Stannis Baratheon,House Baratheon of Dragonstone,5,10,Winterfell,Brienne of Tarth,House Tarth,Sword,595
+597,Myranda Royce,House Bolton,5,10,Winterfell,Reek,House Bolton,Falling,598
+598,Meryn Trant,House Lannister,5,10,Braavos,Arya Stark,House Stark,Knife,599
+599,Jaqen H'ghar,Faceless Men,5,10,Braavos,Jaqen H'ghar,Faceless Men,Poison,600
+600,Myrcella,House Lannister,5,10,Dorne,Ellaria Sand,House Martell,Poison,601
+601,Jon Snow,Night's Watch,5,10,Castle Black,Olly,Night's Watch,Knife,602
+607,Doran Martell,House Martell,6,1,Dorne,Ellaria Sand,House Martell,Knife,608
+608,Areo Hotah,House Martell,6,1,Dorne,Tyene Sand,House Martell,Knife,609
+609,Trystane Martell,House Martell,6,1,King's Landing,Obara Sand,House Martell,Spear,610
+613,Roose Bolton,House Bolton,6,2,Winterfell,Ramsay Bolton,House Bolton,Knife,614
+614,Walda Frey,House Bolton,6,2,Winterfell,Ramsay Bolton,House Bolton,Dogs,615
+615,Bolton heir,House Bolton,6,2,Winterfell,Ramsay Bolton,House Bolton,Dogs,616
+616,Balon Greyjoy,House Greyjoy,6,2,Iron Islands,Euron Greyjoy,House Greyjoy,Hands,617
+618,Oswell Whent,House Targaryen,6,3,Dorne,Ned Stark,House Stark,Sword,619
+622,Arthur Dayne,House Targaryen,6,3,Dorne,Ned Stark,House Stark,Sword,623
+623,Bowen Marsh,Night's Watch,6,3,Castle Black,Jon Snow,House Stark,Noose,624
+624,Othell Yarwyck,Night's Watch,6,3,Castle Black,Jon Snow,House Stark,Noose,625
+625,Alliser Thorne,Night's Watch,6,3,Castle Black,Jon Snow,House Stark,Noose,626
+626,Olly,Night's Watch,6,3,Castle Black,Jon Snow,House Stark,Noose,627
+629,Osha,House Stark,6,4,Winterfell,Ramsay Bolton,House Bolton,Knife,630
+630,Khal Moro,Dothraki,6,4,Vaes Dothrak,Daenerys Targaryen,House Targaryen,Fire,631
+649,Summer,House Stark,6,5,Beyond the Wall,Wight,White Walkers,Sword,650
+650,Three-eyed Raven,Children of the Forest,6,5,Beyond the Wall,White Walker,White Walkers,Sword,651
+651,Leaf,Children of the Forest,6,5,Beyond the Wall,Wight,White Walkers,Sword,652
+652,Hodor,House Stark,6,5,Beyond the Wall,Wight,White Walkers,Hands,653
+653,Brother Ray,Faith of the Seven,6,7,Riverlands,Lem Lemoncloak,Brotherhood Without Banners,Noose,654
+660,Lem Lemoncloak,Brotherhood Without Banners,6,8,Riverlands,Beric Dondarrion,Brotherhood Without Banners,Noose,661
+689,Belicho Paenymion,The Masters,6,9,Meereen,Grey Worm,House Targaryen,Knife,690
+690,Razdal mo Eraz,The Masters,6,9,Meereen,Grey Worm,House Targaryen,Knife,691
+691,Rickon Stark,House Stark,6,9,Winterfell,Ramsay Bolton,House Bolton,Arrow,692
+771,Smalljon Umber,House Umber,6,9,Winterfell,Tormund,Free Folk,Knife,772
+793,Wun Wun,Free Folk,6,9,Winterfell,Ramsay Bolton,House Bolton,Arrow,794
+794,Ramsay Bolton,House Bolton,6,9,Winterfell,Bolton Hound,House Bolton,Teeth,795
+795,Grand Maester Pycelle,Order of Maesters,6,10,King's Landing,Little Bird,House Lannister,Knife,796
+796,Lancel Lannister,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,797
+797,High Sparrow,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,798
+970,Margaery Tyrell,House Tyrell,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,971
+971,Mace Tyrell,House Tyrell,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,972
+972,Loras Tyrell,House Tyrell,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,973
+973,Kevan Lannister,House Lannister,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,974
+994,Tommen Baratheon,House Baratheon of King's Landing,6,10,King's Landing,Tommen Baratheon,House Baratheon of King's Landing,Falling,995
+995,Lothar Frey,House Frey,6,10,The Twins,Arya Stark,House Stark,Cooking,996
+996,Walder Rivers,House Frey,6,10,The Twins,Arya Stark,House Stark,Cooking,997
+997,Walder Frey,House Frey,6,10,The Twins,Arya Stark,House Stark,Knife,998
+1074,Obara Sand,Sand Snakes,7,2,The Narrow Sea,Euron Greyjoy,House Greyjoy,Spear,1075
+1075,Nymeria Sand,Sand Snakes,7,2,The Narrow Sea,Euron Greyjoy,House Greyjoy,Whip,1076
+1081,Ellaria Sand,Sand Snakes,7,3,King's Landing,Cersei Lannister,House Lannister,Poison,1082
+1103,Olenna Tyrell,House Tyrell,7,3,Highgarden,Jaime Lannister,House Lannister,Poison,1104
+1309,Randyll Tarly,House Lannister,7,5,Roseroad,Daenerys Targaryen,House Targaryen,Dragonfire (Dragon),1310
+1310,Dickon Tarly,House Lannister,7,5,Roseroad,Daenerys Targaryen,House Targaryen,Dragonfire (Dragon),1311
+1315,Undead Polar Bear,White Walkers,7,6,Beyond the Wall,Jorah Mormont,House Targaryen,Knife,1316
+1317,Thoros,Brotherhood Without Banners,7,6,Beyond the Wall,Undead Polar Bear,White Walkers,Claws,1318
+1320,Viserion,House Targaryen,7,6,Beyond the Wall,Night King,White Walkers,Ice Javelin,1321
+1321,Benjen Stark,House Stark,7,6,Beyond the Wall,Wight,White Walkers,Claws,1322
+1323,Petyr Baelish,House Baelish,7,7,Winterfell,Arya Stark,House Stark,Knife,1324
+1338,Ned Umber,House Umber,8,2,Last Hearth,Night King,White Walkers,Steak,1339
+1344,Eddison Tollett,Night's Watch,8,3,Winterfell,Wight,White Walkers,Sword,1345
+1366,Lyanna Mormont,House Mormont,8,3,Winterfell,Giant Wight,White Walkers,Hands,1367
+1367,Giant Wight,White Walkers,8,3,Winterfell,Lyanna Mormont,House Mormont,Knife,1368
+1371,Jorah Mormont,House Targaryen,8,3,Winterfell,Wight,White Walkers,Sword,1372
+1372,Night King,White Walkers,8,3,Winterfell,Arya Stark,House Stark,Knife,1373
+1373,"Melisandre ""the Red Woman"" of Asshai",Lord of Light,8,3,Winterfell,"Melisandre ""the Red Woman"" of Asshai",Lord of Light,Old Age,1374
+1374,Rhaegal,House Targaryen,8,4,Dragonstone,Euron Greyjoy,House Greyjoy,Giant arrow,1375
+1378,Missandei,House Targaryen,8,4,King's Landing,"Gregor ""the Mountain"" Clegane",House Lannister,Sword,1379
+1379,Varys,House Targaryen,8,5,Dragonstone,Daenerys Targaryen,House Targaryen,Dragonfire (Dragon),1380
+1773,Golden Company horse,House Lannister,8,5,King's Landing,Daenerys Targaryen,House Targaryen,Dragonfire (Dragon),1774
+1779,Harry Strickland,House Lannister,8,5,King's Landing,Grey Worm,House Targaryen,Spear,1780
+2213,Euron Greyjoy,House Greyjoy,8,5,King's Landing,Jaime Lannister,House Lannister,Sword,2214
+2218,Qyburn,House Lannister,8,5,King's Landing,"Gregor ""the Mountain"" Clegane",House Lannister,Hands,2219
+2219,"Gregor ""the Mountain"" Clegane",House Lannister,8,5,King's Landing,"Sandor ""the Hound"" Clegane",House Clegane,Dragonfire (Dragon),2220
+2220,"Sandor ""the Hound"" Clegane",House Lannister,8,5,King's Landing,"Sandor ""the Hound"" Clegane",House Clegane,Dragonfire (Dragon),2221
+2221,Jaime Lannister,House Lannister,8,5,King's Landing,Daenerys Targaryen,House Targaryen,Rubble,2222
+2222,Cersei Lannister,House Lannister,8,5,King's Landing,Daenerys Targaryen,House Targaryen,Rubble,2223
+2223,Daenerys Targaryen,House Targaryen,8,6,King's Landing,Jon Snow,House Stark,Knife,2224
