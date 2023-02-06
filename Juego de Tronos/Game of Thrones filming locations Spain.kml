@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Game of Thrones filming locations Spain</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFEA00-normal">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFEA00-highlight">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFEA00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFEA00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFEA00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Game of Thrones</name>
+      <Placemark>
+        <name>Castell de Santa Florentina</name>
+        <description><![CDATA[Hornhill, the ancestral home of House Tarly<br><br>Sam brings Gilly and baby Sam to his family's castle in episode 6x06 "Blood of My Blood".]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            2.57677699999999,41.600754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monestir de Sant Pere de Galligants</name>
+        <description><![CDATA[The Citadel of Oldtown<br><br>Sam and Gilly arrive and Sam introduces himself to the somewhat preoccupied maester in charge of entry in episode 6x10 "The Winds of Winter".]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            2.82652129999997,41.9886667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza by Monestir de Sant Pere de Galligants</name>
+        <description><![CDATA[Braavos<br><br>Arya is on a bridge overlooking the Titan of Braavos when the Waif in disguise attacks in episode 6x07 "The Broken Man".]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            2.82622222222221,41.9886111111111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaça dels Jurats</name>
+        <description><![CDATA[The theater stage in Braavos<br><br>Arya watches a play about the events in the Seven Kingdoms, starring her target Lady Crane in episode 6x05 "The Door". <br><br>Arya watches the play again in episode 6x06 "Blood of My Blood". <br><br>Lady Crane does the performance with her changes in episode 6x08 "No One".]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            2.82627777777782,41.9883611111111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carrer de Ferran el Catòlic and Banys Arabs</name>
+        <description><![CDATA[Streets of Braavos<br><br>Arya approaches a ship's captain and pays him to take her home to the Seven Kingdoms in episode 6x07 "The Broken Man". <br><br>Arya comes out of a baths and walks through the market before getting jumped by the Waif in episode 6x08 "No One".]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            2.82586111111118,41.9881388888889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Carrer de Ferran el Catòlic & Pujada del Rei Marti]]></name>
+        <description><![CDATA[Street near the Great Sept of Baelor in King's Landing<br><br>Jaime waits for Mace Tyrell and his armies and Mace Tyrell gives an impassioned speech to his men in episode 6x06 "Blood of My Blood".]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            2.82519444444438,41.98775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Girona Cathedral </name>
+        <description><![CDATA[Steps of the Great Sept of Baelor in King's Landing<br><br>Jaime and the Tyrell army appear to keep Margaery from doing her Walk of Atonement in episode 6x06 "Blood of My Blood".<br><br> Lancel Lannister spots a suspicious young boy and follows him in episode 6x10 "The Winds of Winter".]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            2.82615199999998,41.9874205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carrer del Bisbe Josep Cartañà</name>
+        <description><![CDATA[Streets of Braavos<br><br>A recently-blinded Arya is begging on the street when the Waif appears and fights her with staffs in episode 6x01 "The Red Woman". <br><br>Arya fights the Waif again briefly before being approached by Jaqen H'ghar in episode 6x02 "Home".]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            2.82702777777774,41.9873333333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carrer de Sant Llorenç</name>
+        <description><![CDATA[Streets of Braavos<br><br>Bleeding, Arya stumbles down the stairs leaving a trail of blood for the Waif to follow in episode 6x08 "No One".]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            2.82550000000003,41.9862777777778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carrer de la Claveria</name>
+        <description><![CDATA[<img src="https://doc-14-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/se0ng71govcd4bbjhuuq97srtg/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzwJO7Cce4XY9LKvSf9OoLMUQWcH5xydS4czS15qyCDShqlgP-wSyYz1voZ2kEDEVYIfQb86xlHPcE-fMydQqalAmrQ3_HZXcGWkk__9HqUK4kmZrApGc7O1LCbL6BBoCN9IFTPh_uIXjRUAi51CzOOPHNcS6ius18yjl50p5XNxWmmbboXOYLGMtxOrh7z1SzE?session=0&fife" height="200" width="auto" /><br><br>Streets of Braavos<br><br>Arya jumps out of Lady Crane's window and is pursued by the Waif in episode 6x08 "No One".]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/se0ng71govcd4bbjhuuq97srtg/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzwJO7Cce4XY9LKvSf9OoLMUQWcH5xydS4czS15qyCDShqlgP-wSyYz1voZ2kEDEVYIfQb86xlHPcE-fMydQqalAmrQ3_HZXcGWkk__9HqUK4kmZrApGc7O1LCbL6BBoCN9IFTPh_uIXjRUAi51CzOOPHNcS6ius18yjl50p5XNxWmmbboXOYLGMtxOrh7z1SzE?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            2.82608333333337,41.9860833333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Steps of Sant Martí</name>
+        <description><![CDATA[<img src="https://doc-0o-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/86m7a2id52njrjo3ei28bst218/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzzV2PtiJGrFHXNJoktIKJnYnQE_ppMK8BA63qbyvAfWfh82ih7-gsMDpe_I1_S_jkRMYkOeVmFAwvv7i3AH2DWqnltD2M-dBuFeXzNl3ANVlv31V5WjDH_NACJHEgvb-OhXPbWByiP5BP-53t9Y0DHTwEn5zxoRwd15YftVdmdVoMmOfozqFRtxsaFteM5OrC05?session=0&fife" height="200" width="auto" /><br><br>Streets of  Braavos<br><br>Arya jumps and rolls down some stairs through the market with the Waif close on her tale in episode 6x08 "No One".]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/86m7a2id52njrjo3ei28bst218/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzzV2PtiJGrFHXNJoktIKJnYnQE_ppMK8BA63qbyvAfWfh82ih7-gsMDpe_I1_S_jkRMYkOeVmFAwvv7i3AH2DWqnltD2M-dBuFeXzNl3ANVlv31V5WjDH_NACJHEgvb-OhXPbWByiP5BP-53t9Y0DHTwEn5zxoRwd15YftVdmdVoMmOfozqFRtxsaFteM5OrC05?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            2.82608333333337,41.9848888888889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Playa De Muriola</name>
+        <description><![CDATA[Hidden beach in King's Landing<br><br>Davos lands with Tyrion on a hidden beach so they can sneak into the city and comes back with Gendry and they face some guards in episode 7x05 "Eastwatch".]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -2.96002950000002,43.4129687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Itzurun Beach</name>
+        <description><![CDATA[Dragonstone beach<br><br>Daenerys and her posse land on the beach of Dragonstone and Dany touches Westeros soil for the first time since her childhood in episode 7x01 "Dragonstone".<br><br>Jon and Davos arrive on the island and are met by Missandei and asked to relinquish their weapons before heading up to the castle in episode 7x03 "The Queen's Justice".<br><br>Daenerys is walking down to the beach when she runs into Jon who takes her to the dragonglass cave in episode 7x04 "The Spoils of War".<br><br>Davos brings Gendry to meet Jon and then everyone leaves on the boats in episode 7x05 "Eastwatch".<br><br>Theon fights to get the remaining sailors from the Iron Isles to rescue his sister in episode 7x07 "The Dragon and the Wolf".]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -2.26088519999996,43.3002539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gaztelugatxe</name>
+        <description><![CDATA[Dragonstone stairs<br><br>Daenerys and her advisors climb a long winding path up to the castle of Dragonstone in episode 7x01 "Dragonstone".<br><br>Jon and Tyrion are walking up to the castle and catching up on their way when one of the dragons swoops overhead in episode 7x03 "The Queen's Justice".<br><br>Daenerys talks with Jon and gives him permission to mine the dragonglass in episode 7x03 "The Queen's Justice".<br><br>Jon and Davos are coming down the steps when they meet Missandei and ask her about serving Daenerys in episode 7x04 "The Spoils of War".]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -2.78499999999997,43.447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bardenas Reales</name>
+        <description><![CDATA[The Dothraki Sea <br><br>(Please note: there are several locations in this area and this pin is for the tourist information center. Check out the exact coordinates for individual locations below)<br><br>Khalasar Riding (42°12'09.0"N 1°30'11.4"W)<br>Two of the Dothraki riders comment about Daenerys while she is forced to walk beside them in episode 6x01 "The Red Woman".<br><br>Khalasar Camp (42°12'24.7"N 1°30'29.3"W)<br>Daenerys is brought before the Khal and reveals her identity in episode 6x01 "The Red Woman".<br><br>Dothraki Sea Valley (42°13'12.5"N 1°26'33.1"W)<br>Daenerys and Daario are riding at the front of Khalasar when she rides off to find Drogon in episode 6x06 "Blood of My Blood".]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <Point>
+          <coordinates>
+            -1.53352219999999,42.1797391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Castillo de Zafra</name>
+        <description><![CDATA[Tower of Joy<br><br>The Three-Eyed Raven shows Bran a vision of his father, a young Ned Stark, fighting with Arthur Dayne and his fellow Kingsguards in episode 6x03 "Oathbreaker". <br><br>Bran watches as his father climbs into the tower to find his dying sister inside 6x10 "The Winds of Winter".]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <Point>
+          <coordinates>
+            -1.70635300000004,40.8347116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Castillo de Trujillo </name>
+        <description><![CDATA[Walls of King’s Landing<br><br>Bronn and Jaime are preparing the defenses of the city and have a talk as they watch the Unsullied and Dothraki arriving outside the city in episode 7x07 "The Dragon and the Wolf".]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            -5.87672840000005,39.458293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cáceres‎</name>
+        <description><![CDATA[King's Landing/The Citadel of Oldtown<br><br>There are a couple of locations in the old town of Caceres: <br><br>Plaza Sta. María, 3, 10003 Cáceres, Spain (39°28'28.0"N 6°22'13.4"W) <br>King's Landing<br>Euron marches with his captives Yara, Ellaria, and Tyene through cheering crowds in episode 7x03 "The Queen's Justice".<br><br>Calle Arco de la Estrella, S/N, 10003 Cáceres, Spain (39°28'29.6"N 6°22'15.5"W)<br>King's Landing <br>Euron leads his prisoners through an arch on his way to the Red Keep in episode 7x03 "The Queen's Justice".<br><br>Calle Cuesta de la Compañía, 10003 Cáceres, Spain (39°28'24.3"N 6°22'14.4"W)<br>King's Landing<br>Euron continues to march through town with his prisoners in episode 7x03 "The Queen's Justice".<br><br>Plaza de Las Veletas, 2, 10003 Cáceres, Spain (39°28'22.7"N 6°22'13.5"W)<br>The Citadel<br>Sam and Gilly leave the Citadel with the books Sam stole in episode 7x05 "Eastwatch".]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            -6.37242470000001,39.4752765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Los Barruecos</name>
+        <description><![CDATA[Dragon attack on the Lannister army<br><br>The Lannister baggage train heading back to King's Landing is attacked by the Dothraki and Daenerys riding Drogon, raining down fire and destruction in episode 7x04 "The Spoils of War".<br><br> Bronn drags Jaime out of the water. Tyrion surveys the destruction left by the attack. Daenerys has the captured soldiers brought before her and she demands they either bend the knee or be burned alive in episode 7x05 "Eastwatch".]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            -6.48713269999996,39.4246291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Amphitheatre of Italica</name>
+        <description><![CDATA[Dragonpit<br><br>The two queens and the King in the North meet to negotiate a truce for the battle against the dead and Cersei is shown a wight to convince her that the threat is real in episode 7x07 "The Dragon and the Wolf". <br><br>The remaining lords and ladies of the great houses of Westeros assemble to decide Tyrion's fate and to choose a new ruler for the realm in episode 8x06 "The Iron Throne".]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -6.04678269999999,37.4438689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Royal Alcázar of Seville</name>
+        <description><![CDATA[Sunspear and the Water Gardens of Dorne<br><br>Mudejar Palace<br>Under the Water Gardens Palace<br>Ellaria sends the Sand Snakes out to attack Myrcella in episode 5x06 "Unbowed, Unbent, Unbroken".<br><br>Water Gardens Palace<br>Jaime talks with Doran Martell about the incident with Myrcella and the Sand Snakes in episode 5x09 "The Dance of Dragons".<br><br>Gardens<br>Water Gardens<br>Ellaria Sand tries to convince Prince Martell to take revenge against the Lannisters in episode 5x02 "The House of Black and White". <br><br>Jaime attempts to rescue Myrcella from the attack by the Sand Snakes in episode 5x06 "Unbowed, Unbent, Unbroken".]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -5.9902257,37.3830519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Reales Atarazanas</name>
+        <description><![CDATA[The dungeons of the Red Keep<br><br>NOTE: this location is currently (10/2019) closed for repairs with no information on when it will be reopened. <br><br>Qyburn takes Cersei down into the dungeons to demonstrate his new anti-dragon weapon in episode 7x02 "Stormborn". <br><br>Bronn brings Jaime into the dungeon for a secret meeting with Tyrion in episode 7x05 "Eastwatch".]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -5.99544000000003,37.3848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de Toros de Osuna</name>
+        <description><![CDATA[Great Pit of Daznak<br><br>Daenerys is watching the fighters battle in the great pit when the event is attacked by the Sons of the Harpy in episode 5x09 "The Dance of Dragons".]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -5.10836270000004,37.2420888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Roman Bridge of Córdoba</name>
+        <description><![CDATA[Long Bridge of Volantis<br>Varys and Tyrion arrive at the bridge in episode 5x03 "High Sparrow".<br>Yara and Theon are at the bridge before sailing to Meereen in episode 6x07 "The Broken Man".]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <Point>
+          <coordinates>
+            -4.77835389999996,37.8769996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Castillo Almodovar del Rio</name>
+        <description><![CDATA[Highgarden<br>The Lannister army takes over the Tyrell seat of power and Jaime heads up to the tower in episode 7x03 "The Queen's Justice".]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <Point>
+          <coordinates>
+            -5.0238276,37.8074073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

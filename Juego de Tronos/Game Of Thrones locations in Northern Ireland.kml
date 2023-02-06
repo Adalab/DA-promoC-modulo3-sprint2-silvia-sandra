@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Game Of Thrones locations in Northern Ireland</name>
+    <description>For more on Game of Thrones in Northern Ireland, check out https://www.fangirlquest.com/game-of-thrones/northern-ireland/</description>
+    <Style id="icon-503-7C3592-normal">
+      <IconStyle>
+        <color>ff92357c</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-7C3592-highlight">
+      <IconStyle>
+        <color>ff92357c</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-7C3592">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-7C3592-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-7C3592-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-7C3592-nodesc-normal">
+      <IconStyle>
+        <color>ff92357c</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-503-7C3592-nodesc-highlight">
+      <IconStyle>
+        <color>ff92357c</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-503-7C3592-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-7C3592-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-7C3592-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-960-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-960-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-960-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-960-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-960-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Filming locations</name>
+      <Placemark>
+        <name>Quintin Bay</name>
+        <description><![CDATA[<img src="https://doc-14-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/85ho18j9rodj3por1uapmstqo0/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzx1O0gjZ9eQ1PTS5IPArA1wIyqrou-kidROH_RzM9_WTufwo2OMoAjfZ1CDcMdjDWjawrnDX0617dY8jHiPX76DeEoMyUFvXOfk1bBcArjrcVVUGufaOCOJXr0JdsGxsD6VerHkh3Tdwf-U4wAlRrwDyK0iIv7J6UOfSnD7R9P0TWvmd2YUYTL8qrYvSA?session=0&fife" height="200" width="auto" /><br><br>Stokeworth<br><br>Bronn is out for a walk with his betrothed Lollys Stokeworth when Jaime Lannister interrupts to recruit Bronn for a secret mission to Dorne in episode 5x02 "The House of Black and White".<br><br><img src="https://doc-0k-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/5qel244shpnp8agj1nhc8tacos/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzyfk2xIdHGbb1ZJQJO3VBN-djtYUDcIcDhX8aCp486zehayladRrmhjoGhT_eZb88Zue3xhW6GvAICF_ip84Qbi-ar26mkZAZ35b2DqMLN6wp7OsbdCIMF49XrajSLJjlAuK0U_xflxRAlYY0ipPeFJalyeTUeGuxfwHpCH6VbLwiEGUiTfk6w51F5huA?session=0&fife" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-503-7C3592</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/85ho18j9rodj3por1uapmstqo0/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzx1O0gjZ9eQ1PTS5IPArA1wIyqrou-kidROH_RzM9_WTufwo2OMoAjfZ1CDcMdjDWjawrnDX0617dY8jHiPX76DeEoMyUFvXOfk1bBcArjrcVVUGufaOCOJXr0JdsGxsD6VerHkh3Tdwf-U4wAlRrwDyK0iIv7J6UOfSnD7R9P0TWvmd2YUYTL8qrYvSA?session=0&fife https://doc-0k-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/5qel244shpnp8agj1nhc8tacos/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzyfk2xIdHGbb1ZJQJO3VBN-djtYUDcIcDhX8aCp486zehayladRrmhjoGhT_eZb88Zue3xhW6GvAICF_ip84Qbi-ar26mkZAZ35b2DqMLN6wp7OsbdCIMF49XrajSLJjlAuK0U_xflxRAlYY0ipPeFJalyeTUeGuxfwHpCH6VbLwiEGUiTfk6w51F5huA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -5.48944444444442,54.3760555555556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Castle Ward</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/ANkjSgE72APr7IRdvSZ10mMfUNYOuhYnhR-wHZ0F0T-zfEkVoW4y8PXTZVrWDkiP5dI-EL88PVTow1-Ac4MUH03FvSUZqk9Sx07QYUetiHt-WgJ_8stdd1cBF19clLC8vu7EK8jS13MwQ-LBcD668McQizPeAhxaTUrHrMTQhBY" height="200" width="auto" /><br><br>Winterfell Courtyard<br><br>Bran practices archery with his brothers and Arya steels the show in episode 1x01 "Winter is Coming".<br><br>King Robert and his party arrive at Winterfell and are greeted by the entire Stark family in episode 1x01 "Winter Is Coming".]]></description>
+        <styleUrl>#icon-503-7C3592</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/ANkjSgE72APr7IRdvSZ10mMfUNYOuhYnhR-wHZ0F0T-zfEkVoW4y8PXTZVrWDkiP5dI-EL88PVTow1-Ac4MUH03FvSUZqk9Sx07QYUetiHt-WgJ_8stdd1cBF19clLC8vu7EK8jS13MwQ-LBcD668McQizPeAhxaTUrHrMTQhBY</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -5.581591,54.367346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Audley's Castle]]></name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/ANkjSgG2gwdQmxiQqnlnfEi7-7axzpd_KiQy9eNT3aZH0cDIR9-_FXbBbzMDwMymWBa8eRRCqoPQz8wtXm1sF5yyvr4jNWq-5XYSd5K4fn7okIGS4zUSHpr-Jir0mXcww7f42T5Y7ZDEbchWgLSN0JJO25D_" height="200" width="auto" /><br><br><br><br><img src="https://lh3.googleusercontent.com/umsh/ANkjSgFWXGhuyhpYWq0iJMVg00DWk5fjFBsxbooqVNAjRpmQRZPK5IEPNIMSTaoykBGaRc3jGm2RhdTSv_mhyWUrHQIkikT1vXo-6WNawF9DNQPGST19SabDr64fKU9O19PpLMBBjQzLMRRX" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-503-7C3592</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/ANkjSgG2gwdQmxiQqnlnfEi7-7axzpd_KiQy9eNT3aZH0cDIR9-_FXbBbzMDwMymWBa8eRRCqoPQz8wtXm1sF5yyvr4jNWq-5XYSd5K4fn7okIGS4zUSHpr-Jir0mXcww7f42T5Y7ZDEbchWgLSN0JJO25D_ https://lh3.googleusercontent.com/umsh/ANkjSgFWXGhuyhpYWq0iJMVg00DWk5fjFBsxbooqVNAjRpmQRZPK5IEPNIMSTaoykBGaRc3jGm2RhdTSv_mhyWUrHQIkikT1vXo-6WNawF9DNQPGST19SabDr64fKU9O19PpLMBBjQzLMRRX</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -5.572005,54.379558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quoile River</name>
+        <styleUrl>#icon-503-7C3592-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.69384969999999,54.3556366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inch Abbey</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/ANkjSgFxqJ2b6SCtWQCxhB3SVTd3-S4nfgxRUOcF97fqlP4ZGESxIe56qipviwGujR5z_51ZMM4o_W0WjQ8psH9z2a_-HP_XRZztxxOkb7lT5_1Anq0GjhbPWLzGfgifq6IkMBY_4OLV" height="200" width="auto" /><br><br><br><br><img src="https://lh3.googleusercontent.com/umsh/ANkjSgETuBrzYPzv5pvtBiw_TZWJC6X8HJd8JKx-a_vkTVa60QP1lbcCfEdk3876PEGgGCHPgBa7UPB_g9V29Gb01BQkO9zF7LpNCV6yO00-0sKSMiTyQsIx5QtRChD7HWz6_-VTx8R9m0wYUg" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-503-7C3592</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/ANkjSgFxqJ2b6SCtWQCxhB3SVTd3-S4nfgxRUOcF97fqlP4ZGESxIe56qipviwGujR5z_51ZMM4o_W0WjQ8psH9z2a_-HP_XRZztxxOkb7lT5_1Anq0GjhbPWLzGfgifq6IkMBY_4OLV https://lh3.googleusercontent.com/umsh/ANkjSgETuBrzYPzv5pvtBiw_TZWJC6X8HJd8JKx-a_vkTVa60QP1lbcCfEdk3876PEGgGCHPgBa7UPB_g9V29Gb01BQkO9zF7LpNCV6yO00-0sKSMiTyQsIx5QtRChD7HWz6_-VTx8R9m0wYUg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -5.731726,54.336047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tollymore Forest Park</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/ANkjSgHO99rAk8b-3zP_tOVrwoNspwxFqMxrMlCu4H4i0E4Wzfcg9R6F6TSIj8tLBJLcdvaFJfPkFtIcsKIVe2LexKxUwqQFeVJDtnGww8y70fA3JYTg9WS4OWUlX9u7xWezfWSjZlwVAwtRbw" height="200" width="auto" /><br><br><br><br><img src="https://lh3.googleusercontent.com/umsh/ANkjSgGdbrr8OyXHCKwjkBr471oMiq14m8Da9kgXg4EjfVP_3vg2yA_HUyE5LEzKzaE2SG5ZNYOnafWGddW9b84sbT4DmBSW3dDGdKbPqH13HhMbhTS724FqW4p3RZoyjaG7Rc3o" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-503-7C3592</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/ANkjSgHO99rAk8b-3zP_tOVrwoNspwxFqMxrMlCu4H4i0E4Wzfcg9R6F6TSIj8tLBJLcdvaFJfPkFtIcsKIVe2LexKxUwqQFeVJDtnGww8y70fA3JYTg9WS4OWUlX9u7xWezfWSjZlwVAwtRbw https://lh3.googleusercontent.com/umsh/ANkjSgGdbrr8OyXHCKwjkBr471oMiq14m8Da9kgXg4EjfVP_3vg2yA_HUyE5LEzKzaE2SG5ZNYOnafWGddW9b84sbT4DmBSW3dDGdKbPqH13HhMbhTS724FqW4p3RZoyjaG7Rc3o</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -5.942908,54.219995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sandy Brae</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/ANkjSgFiJeX9-MBbmWyRTIZCPjZqgblRD30aDc82pCTTFRBHod8-UxyqWwJS5stKLKr5BtyY94EdWsxJAxvgXxUb1qeM4yYaNc5MDflTzzvY_7h9UVGlLLqgPI-PwL9ZPzUi1wFxvg3SKgHo4icBDPE93WAPMDBJTFZNlVaxKmCQkdncLK8" height="200" width="auto" /><br><br>The road to Vaes Dothrak<br><br>Daenerys and Jorah have a discussion just as the Dothraki are riding into the holy city of Vaes Dothrak in episode 1x04 "Cripples, Bastards, and Broken Things".<br><br><img src="https://lh3.googleusercontent.com/umsh/ANkjSgHhSXzxWAuZLWI2ZJ35S8F3_nNC2vXI5aho-xna_UKHX7LH7dGlPF-7yyqfZOCdhMYMV6bRIw98n5jEAMHZj88YVOiiWjm-_uxfj9AG57JZOgkCnXQ90u3lKGLaOldvmhtqh57Xrc26u1ryzWC96zO9F7IjWXzvNefQGVZw4yw4qQo3Ei2OIzUqN5tQ" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-503-7C3592</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/ANkjSgFiJeX9-MBbmWyRTIZCPjZqgblRD30aDc82pCTTFRBHod8-UxyqWwJS5stKLKr5BtyY94EdWsxJAxvgXxUb1qeM4yYaNc5MDflTzzvY_7h9UVGlLLqgPI-PwL9ZPzUi1wFxvg3SKgHo4icBDPE93WAPMDBJTFZNlVaxKmCQkdncLK8 https://lh3.googleusercontent.com/umsh/ANkjSgHhSXzxWAuZLWI2ZJ35S8F3_nNC2vXI5aho-xna_UKHX7LH7dGlPF-7yyqfZOCdhMYMV6bRIw98n5jEAMHZj88YVOiiWjm-_uxfj9AG57JZOgkCnXQ90u3lKGLaOldvmhtqh57Xrc26u1ryzWC96zO9F7IjWXzvNefQGVZw4yw4qQo3Ei2OIzUqN5tQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.06865400000004,54.118848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marble Arch Caves</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/ANkjSgFZEc8zEnccAUACkyHe1xXAd0MsRBAhwSngk69uzLxpsNaCNLPaa6Tiz1-HYqXkjaukIHtON0t1na6xKgyFrNwUS0JbAm7FPhfDBzEblCcljX8Nj9Mr9j-9ZwwEleDQISxgeI__1pFfs0ooP4u7I5kr4jIL" height="200" width="auto" /><br><br><br><br><img src="https://lh3.googleusercontent.com/umsh/ANkjSgEDv28VCzo8omHlsfBctgOpKXfb_s4c2Mf0gc00kYPOiO9xVq7XceI2XL32Y0zUVW8yTShvb8G47IPrDasuQcVL7kfkAJJPQLdjwddj-XIXQ35ENL6M4n9I-1jn8dnOQH270IsYLeviYW9thrpEz1mK3ox-" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/umsh/ANkjSgGyd2a9TAXIj_OD3X4-Uk2HTpFPGo8LM_NQzSfm4_zqXwvhgE5JXKqp23JiEawHVcgWNSg3n8dIrjWViBHsq8Oju3kanYvu2N8K45KGYpAAYTM2hV61QvLEA76vBd8lu10RKVbrPM8JgGYGLiO1pwIiuXo" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/umsh/ANkjSgEoncvF2TnvgIUvjqLBPD-WRP8Glzfiffd_TPyoINImzPFig4ZExJTIGPVVr4fBUrEu6ZzVULOYLpyZyueJJ9SOh2CafTmsKdVqYtAjeupYb5Ll6PKhGEx8sXun5hZic7OPxVVW2I9Oic9247VjdF_7oTdm" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-960-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/ANkjSgFZEc8zEnccAUACkyHe1xXAd0MsRBAhwSngk69uzLxpsNaCNLPaa6Tiz1-HYqXkjaukIHtON0t1na6xKgyFrNwUS0JbAm7FPhfDBzEblCcljX8Nj9Mr9j-9ZwwEleDQISxgeI__1pFfs0ooP4u7I5kr4jIL https://lh3.googleusercontent.com/umsh/ANkjSgEDv28VCzo8omHlsfBctgOpKXfb_s4c2Mf0gc00kYPOiO9xVq7XceI2XL32Y0zUVW8yTShvb8G47IPrDasuQcVL7kfkAJJPQLdjwddj-XIXQ35ENL6M4n9I-1jn8dnOQH270IsYLeviYW9thrpEz1mK3ox- https://lh3.googleusercontent.com/umsh/ANkjSgGyd2a9TAXIj_OD3X4-Uk2HTpFPGo8LM_NQzSfm4_zqXwvhgE5JXKqp23JiEawHVcgWNSg3n8dIrjWViBHsq8Oju3kanYvu2N8K45KGYpAAYTM2hV61QvLEA76vBd8lu10RKVbrPM8JgGYGLiO1pwIiuXo https://lh3.googleusercontent.com/umsh/ANkjSgEoncvF2TnvgIUvjqLBPD-WRP8Glzfiffd_TPyoINImzPFig4ZExJTIGPVVr4fBUrEu6ZzVULOYLpyZyueJJ9SOh2CafTmsKdVqYtAjeupYb5Ll6PKhGEx8sXun5hZic7OPxVVW2I9Oic9247VjdF_7oTdm</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -7.813143,54.258525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pollnagollum Cave</name>
+        <styleUrl>#icon-503-7C3592-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -7.81267809999997,54.3367018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Downhill Beach</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/ANkjSgHVMkwio9BJyoJR5mytcOEcR7R0clfk2M-jzRSPYquVWvtFmL2HI__IAix8nhfFnuBuShgOn0wSan2jSlUbprBTGcoggl0rszFcjsvb3-lyJM_hkfi_-rsKIFPbggu9QFPGpLsOoctiqxOr" height="200" width="auto" /><br><br><br><br><img src="https://lh3.googleusercontent.com/umsh/ANkjSgFLn3-jVEoyAbyhxg_XG5QQRH7awhNVrBoxzkvEtPIOa4HN5a9EIMI6wrezQwAti6JKEP1O7udJFgFWVWImRiJygg5OrR6VogIdTrqGty-6qv_P_OODRSv9Iik0T_0_7zTvPcCbb6y8hbMlAicxaDPrJxA5tor4HkwGCI87p5MdzA" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-503-7C3592</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/ANkjSgHVMkwio9BJyoJR5mytcOEcR7R0clfk2M-jzRSPYquVWvtFmL2HI__IAix8nhfFnuBuShgOn0wSan2jSlUbprBTGcoggl0rszFcjsvb3-lyJM_hkfi_-rsKIFPbggu9QFPGpLsOoctiqxOr https://lh3.googleusercontent.com/umsh/ANkjSgFLn3-jVEoyAbyhxg_XG5QQRH7awhNVrBoxzkvEtPIOa4HN5a9EIMI6wrezQwAti6JKEP1O7udJFgFWVWImRiJygg5OrR6VogIdTrqGty-6qv_P_OODRSv9Iik0T_0_7zTvPcCbb6y8hbMlAicxaDPrJxA5tor4HkwGCI87p5MdzA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.8075,55.1685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Portstewart Strand</name>
+        <description><![CDATA[<img src="https://doc-0s-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/nkn8it9dkhjor9snb05b97192o/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzyNkbn4dLXt90VY6jeC6X0BNDiGdbMQ1j5PhgDMawf5iqWUAtiepZWvnS5BXgivAO-pyAQ4_WlrunTWishkxbQr9Ey1g9SSjzibKGzm-hyxPpLp8I_ipQktwGguN63YSktrF0w_ohjRTCGk2vOXNrBOMBApwE1ocs0Jqnyc1fVh1hN8a9YtT6SCjFQY?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-503-7C3592</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/nkn8it9dkhjor9snb05b97192o/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzyNkbn4dLXt90VY6jeC6X0BNDiGdbMQ1j5PhgDMawf5iqWUAtiepZWvnS5BXgivAO-pyAQ4_WlrunTWishkxbQr9Ey1g9SSjzibKGzm-hyxPpLp8I_ipQktwGguN63YSktrF0w_ohjRTCGk2vOXNrBOMBApwE1ocs0Jqnyc1fVh1hN8a9YtT6SCjFQY?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.7502389,55.1688557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Giant's Causeway]]></name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/ANkjSgFCemQzOLEaFC74HmcY7AOfcAp3OwPOK0zXgF9FTgMjx6fdFML8HvZ8b9QF8e2ouwliIYs2T4pfI9EnJOGtHLXaYWFFNEPTPq2wKFIbVnVBKNY34PBwu4oXGsjy4LJVsUHdZ-ONP_XwZw" height="200" width="auto" /><br><br><br><br><img src="https://lh3.googleusercontent.com/umsh/ANkjSgFmOd6AI62JvGSFoe2hUPmQBQYIJYuCjKXI7vtGsd5PFUxTB8WXypJ6iBzf8krbriw3v-RaxDZLK-pizvtbmKGayByRv-jAfOtRaCFX822Ymp1zF_vBibzoyG9JLJEiIfR8GXYPdTt_Tl4RGkIu1Q" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-960-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/ANkjSgFCemQzOLEaFC74HmcY7AOfcAp3OwPOK0zXgF9FTgMjx6fdFML8HvZ8b9QF8e2ouwliIYs2T4pfI9EnJOGtHLXaYWFFNEPTPq2wKFIbVnVBKNY34PBwu4oXGsjy4LJVsUHdZ-ONP_XwZw https://lh3.googleusercontent.com/umsh/ANkjSgFmOd6AI62JvGSFoe2hUPmQBQYIJYuCjKXI7vtGsd5PFUxTB8WXypJ6iBzf8krbriw3v-RaxDZLK-pizvtbmKGayByRv-jAfOtRaCFX822Ymp1zF_vBibzoyG9JLJEiIfR8GXYPdTt_Tl4RGkIu1Q</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.511555,55.240807,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ballintoy Harbour</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/ANkjSgEfweLN2lJUD5QqZJXT9VlcmiUElZm9siFaqEDsBazpAtnSBf2RN8ild4pNngBAaDSw9eHP2zuqRelDdU3kVY1_U9tE0kCpfhP2Bpd-jInxrzNLweJbsRyeqSKRbH8oU4TPdytyH7kZ" height="200" width="auto" /><br><br><br><br><img src="https://lh3.googleusercontent.com/umsh/ANkjSgHmku3CyYZdkQUsJELgOejG6oQfV9ItVN6atA5FdXeHMSYBLaVGnXGoJAZC89zvgl7RsI0I7mUZoOwtqaeiE3nTa2XIZKJDYVZ5IuteRUAW4kEzbJUVsk6ve1pTb8NE4_rZGT9JxisoZXge1-Bccqd8nKg47KEI6t6pCjfBKkpY2F3PDhwEIw" height="200" width="auto" /><br><br><img src="https://doc-0g-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/86u1q28frbn3u3qbjuvfcp5rtc/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzwWIJZyv6UHrkjOSjmaO3nDHA73qWFQDM-q3_Xabt49vH2PTS0prCje53Xzm8NJla32R3FdykiA-0grXKsjsS0bQ63ifQN8yt8-AsD6BnI-X-OPsaDitZaEQnjb-JS2yRY-9jWVwPSb9BZ7XX_cMiaip_H0u93CBmfiweIYRm3--wOP9BIW77h5wxHL?session=0&fife" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-503-7C3592</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://lh3.googleusercontent.com/umsh/ANkjSgEfweLN2lJUD5QqZJXT9VlcmiUElZm9siFaqEDsBazpAtnSBf2RN8ild4pNngBAaDSw9eHP2zuqRelDdU3kVY1_U9tE0kCpfhP2Bpd-jInxrzNLweJbsRyeqSKRbH8oU4TPdytyH7kZ https://lh3.googleusercontent.com/umsh/ANkjSgHmku3CyYZdkQUsJELgOejG6oQfV9ItVN6atA5FdXeHMSYBLaVGnXGoJAZC89zvgl7RsI0I7mUZoOwtqaeiE3nTa2XIZKJDYVZ5IuteRUAW4kEzbJUVsk6ve1pTb8NE4_rZGT9JxisoZXge1-Bccqd8nKg47KEI6t6pCjfBKkpY2F3PDhwEIw https://doc-0g-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/86u1q28frbn3u3qbjuvfcp5rtc/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzwWIJZyv6UHrkjOSjmaO3nDHA73qWFQDM-q3_Xabt49vH2PTS0prCje53Xzm8NJla32R3FdykiA-0grXKsjsS0bQ63ifQN8yt8-AsD6BnI-X-OPsaDitZaEQnjb-JS2yRY-9jWVwPSb9BZ7XX_cMiaip_H0u93CBmfiweIYRm3--wOP9BIW77h5wxHL?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.36960299999998,55.244304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Larrybane Quarry</name>
+        <styleUrl>#icon-503-7C3592-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.35120370000004,55.2411392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carrick-a-Rede rope bridge</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=Zmd67zUcqlI"><img src="https://img.youtube.com/vi/Zmd67zUcqlI/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/Zmd67zUcqlI">https://www.youtube.com/embed/Zmd67zUcqlI</a><br><br>]]></description>
+        <styleUrl>#icon-960-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/Zmd67zUcqlI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.332671,55.239471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Dark Hedges</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/ANkjSgGur4K_xNK1o6TVNR3wckkDZ19sMqhVU7gDWuoguSOvHjKqZOI3bMg8vYJjQ9pTc1y3Z0eWNUluoDxv7gG7zJIRWLSUiewS8-PESFYfK1WmJUqgFejTwCiRvbCj4izk6co7SvuS7ot5DtxckRpilxhAfN5V6kWWUIloYnbHRg" height="200" width="auto" /><br><br><br><br><img src="https://lh3.googleusercontent.com/umsh/ANkjSgEwudhjCjM1AcvEO5WIRsAdFoHQ9oC2tRqM9DXMoDkWRicOYGyEEeYwvaCGnIbu1FmeHnIrkBF4e8Gc5F3T67f4i6KXwe9uKZntXMDLThS1ciAiyH-b6WQtDblrJ8E5YfPHSmU27MnfJ_C09H0bnfX5tgXVwWXRXg95vVrmdg" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-503-7C3592</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/ANkjSgGur4K_xNK1o6TVNR3wckkDZ19sMqhVU7gDWuoguSOvHjKqZOI3bMg8vYJjQ9pTc1y3Z0eWNUluoDxv7gG7zJIRWLSUiewS8-PESFYfK1WmJUqgFejTwCiRvbCj4izk6co7SvuS7ot5DtxckRpilxhAfN5V6kWWUIloYnbHRg https://lh3.googleusercontent.com/umsh/ANkjSgEwudhjCjM1AcvEO5WIRsAdFoHQ9oC2tRqM9DXMoDkWRicOYGyEEeYwvaCGnIbu1FmeHnIrkBF4e8Gc5F3T67f4i6KXwe9uKZntXMDLThS1ciAiyH-b6WQtDblrJ8E5YfPHSmU27MnfJ_C09H0bnfX5tgXVwWXRXg95vVrmdg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.38068,55.134743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fair Head</name>
+        <description><![CDATA[<img src="https://doc-0s-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/42rh4nc72ufvh2mvr6grfd284g/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzxm1adY1tEiNfokkZMae9DGSiK43p1rMJG2lJt5te7cJtvDX81JV1_1rZa1NaoWS73vv3GidbLFQd3vLPKx1IPd7x0TfljvfxrBb5KG0Xp2v_9730tgBgIdLQJDAGuhRBpmG8YncRLSoCDwZmj3v6Rf-Y0T-DSgK5VMHy7E6JOTPoaGyMwxKWcgNnhNvw?session=0&fife" height="200" width="auto" /><br><br><br><br><img src="https://doc-00-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/1ft282i5pi78sasdslc26dk10k/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzxEkABrn62Bbz7u3AhiYWwtsRlsMQcp0zcRaeiizc2hPOj4NvdEf3WQ66IBwbVh5kG6kUkYHJyrE5Hh2U3rcKzhMmaFoLke9Ie6QGyZF3m_8j0C_j5_2Zi99hePOOCLCmpGkHzG7Fwbnr02hAXrMNsq1MEYu4PC0PLustxCnNoH0R9TQpasQA7AoBR_?session=0&fife" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-503-7C3592</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/42rh4nc72ufvh2mvr6grfd284g/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzxm1adY1tEiNfokkZMae9DGSiK43p1rMJG2lJt5te7cJtvDX81JV1_1rZa1NaoWS73vv3GidbLFQd3vLPKx1IPd7x0TfljvfxrBb5KG0Xp2v_9730tgBgIdLQJDAGuhRBpmG8YncRLSoCDwZmj3v6Rf-Y0T-DSgK5VMHy7E6JOTPoaGyMwxKWcgNnhNvw?session=0&fife https://doc-00-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/1ft282i5pi78sasdslc26dk10k/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzxEkABrn62Bbz7u3AhiYWwtsRlsMQcp0zcRaeiizc2hPOj4NvdEf3WQ66IBwbVh5kG6kUkYHJyrE5Hh2U3rcKzhMmaFoLke9Ie6QGyZF3m_8j0C_j5_2Zi99hePOOCLCmpGkHzG7Fwbnr02hAXrMNsq1MEYu4PC0PLustxCnNoH0R9TQpasQA7AoBR_?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.154,55.221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Above Murlough Bay</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/ANkjSgFeZCWZ_yP0ZtgmLHpjlRe5Ma201UQDRulmVCfF5BQY0GMHLOxwJInmg7Gi36gjm6wHJ6I3lbNmuPOzlRou9g74ATsYZWVMCGXr2bGml25tBXFncB3uBmhs3tmocJdNrQtkNiqTiUi89Gof1wY7QdnzkYweErGGUGyXONOqY-4" height="200" width="auto" /><br><br>Renly and Stannis meet to discuss a resolution to the succession issue in episode 2x04 "Garden of Bones".]]></description>
+        <styleUrl>#icon-503-7C3592</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/ANkjSgFeZCWZ_yP0ZtgmLHpjlRe5Ma201UQDRulmVCfF5BQY0GMHLOxwJInmg7Gi36gjm6wHJ6I3lbNmuPOzlRou9g74ATsYZWVMCGXr2bGml25tBXFncB3uBmhs3tmocJdNrQtkNiqTiUi89Gof1wY7QdnzkYweErGGUGyXONOqY-4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.129985,55.208827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sheep field in Murlough Bay</name>
+        <description><![CDATA[Tyrion and Jorah are walking down the coast when they see a slave ship in the bay below in episode 5x06 "Unbowed, Unbent, Unbroken".]]></description>
+        <styleUrl>#icon-503-7C3592</styleUrl>
+        <Point>
+          <coordinates>
+            -6.12369444444448,55.2145555555556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Murlough Bay</name>
+        <description><![CDATA[<img src="https://doc-0g-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/nhe2tt9q48rlablg80cnqomeac/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzzO5KGSt8mugmytKmSFVSipVk1pqMkL_DohQ9q67tdNOlwvYj_BqgG562K7kutyWF99Gw6lDw6UgH7zx_KdSBXadCnBB1mK5GLIYOgMaQdXnj-DsjjKgwbmuqBznZHSCQnmqgl_Ogq3-grygZPko-BgpzNwMDKPfoPzYZb9Qp8MnSbge5sMKhV5ppMPXw?session=0&fife" height="200" width="auto" /><br><br>Jorah and Tyrion are taken to where the slaver's boats are docked and Tyrion manages to talk them into going to Meereen in episode 5x06 "Unbowed, Unbent, Unbroken".]]></description>
+        <styleUrl>#icon-503-7C3592</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/nhe2tt9q48rlablg80cnqomeac/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzzO5KGSt8mugmytKmSFVSipVk1pqMkL_DohQ9q67tdNOlwvYj_BqgG562K7kutyWF99Gw6lDw6UgH7zx_KdSBXadCnBB1mK5GLIYOgMaQdXnj-DsjjKgwbmuqBznZHSCQnmqgl_Ogq3-grygZPko-BgpzNwMDKPfoPzYZb9Qp8MnSbge5sMKhV5ppMPXw?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.11808333333329,55.2110833333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cushendun Caves</name>
+        <styleUrl>#icon-503-7C3592-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.03762230000007,55.1240789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carnlough Harbour</name>
+        <description><![CDATA[<img src="https://doc-10-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/dm02hoa0dcht42unvme1q418hk/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzy6cwSEZVc72xtGHkgidO9y2UGll-lvGbJOWBdEvPrFEciikq_MrS5B_u1EpwyqNSHp1ZsOxLD3HYkczjaUXka4Z4uNPHbMBTClLq_Od37UHR-mB1pdWYr2-CuRKqv0tC-wYX5McqmpjuxvIVTimJuW4VQuQ2cO4WYm6vG2Fg52Gxng-5d8nllXKRdQDA?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-503-7C3592</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/dm02hoa0dcht42unvme1q418hk/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzy6cwSEZVc72xtGHkgidO9y2UGll-lvGbJOWBdEvPrFEciikq_MrS5B_u1EpwyqNSHp1ZsOxLD3HYkczjaUXka4Z4uNPHbMBTClLq_Od37UHR-mB1pdWYr2-CuRKqv0tC-wYX5McqmpjuxvIVTimJuW4VQuQ2cO4WYm6vG2Fg52Gxng-5d8nllXKRdQDA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -5.98891900000001,54.993834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Knock Dhu</name>
+        <description><![CDATA[<img src="https://doc-0s-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/aa6sj2r0ldgqdqu0qv1q0qmes4/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzzpYgBUGuVqG5qYL70pRobjJ0y9QwTmsbwWLaDSKRjfaEKtMgckPxjo-4WqL7lNSzGCcySJQp544W_JWJR9MbtO_Qr54UwhHJcwJzBRFrfKaW5BT6oAuI0VXchX8Qm1flgeGwCDZlLs9anFsezSA9HRsx71OySaxOWDYLvwM69kgdFp5B5686-qUMoOqg?session=0&fife" height="200" width="auto" /><br><br>Execution Block<br><br>A deserter of the Night's Watch is caught and brought to Ned Stark who sentences him to die in episode 1x01 "Winter Is Coming".<br><br>Moat Cailin Overlook<br><br>Sansa figures out Littlefinger's plan to marry her to Ramsay Bolton as they look down on Moat Cailin in episode 5x03 "High Sparrow".<br><br><img src="https://doc-00-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/4rmlheuj4aqlq1a2tmaki98720/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzxVuZ8KOwO9yQALgbPBAl1xIHW0IZndksPMRhC1-DlEwIig5cpULn2io4fMCqasdDonNUJLGpZE1PjYDi9pnOumLlDWaCKlngioORQscOY5_6TluRmObyeFatLOeTBfbT-gKbRmQNgHbQTYS4V2spMJxmLRUBRFv-LGCKvgJSjuSIEEHiC4t_d9ox66tQ?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-0g-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/0m8g9u56v98lfhcmnftvc8t4fs/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzzU-D0XAxMZlJSvTyCjVF9rl91XEqnrHSMm_Hlu1zv08l0ZMbksVHmaFIY2wgn2VE0PeXGS7dk9fyQZNJXbQ3gHEpbyABpp0lUu3CEhqBvH45Q6qbyyBGgr0siDguX_CtyhuvPR-hdTLGMttyI0uVlHCCCfxONQoVGQXq2DJ2DxaVeKeWubK2FzHjG03w?session=0&fife" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-503-7C3592</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/aa6sj2r0ldgqdqu0qv1q0qmes4/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzzpYgBUGuVqG5qYL70pRobjJ0y9QwTmsbwWLaDSKRjfaEKtMgckPxjo-4WqL7lNSzGCcySJQp544W_JWJR9MbtO_Qr54UwhHJcwJzBRFrfKaW5BT6oAuI0VXchX8Qm1flgeGwCDZlLs9anFsezSA9HRsx71OySaxOWDYLvwM69kgdFp5B5686-qUMoOqg?session=0&fife https://doc-00-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/4rmlheuj4aqlq1a2tmaki98720/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzxVuZ8KOwO9yQALgbPBAl1xIHW0IZndksPMRhC1-DlEwIig5cpULn2io4fMCqasdDonNUJLGpZE1PjYDi9pnOumLlDWaCKlngioORQscOY5_6TluRmObyeFatLOeTBfbT-gKbRmQNgHbQTYS4V2spMJxmLRUBRFv-LGCKvgJSjuSIEEHiC4t_d9ox66tQ?session=0&fife https://doc-0g-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/0m8g9u56v98lfhcmnftvc8t4fs/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzzU-D0XAxMZlJSvTyCjVF9rl91XEqnrHSMm_Hlu1zv08l0ZMbksVHmaFIY2wgn2VE0PeXGS7dk9fyQZNJXbQ3gHEpbyABpp0lUu3CEhqBvH45Q6qbyyBGgr0siDguX_CtyhuvPR-hdTLGMttyI0uVlHCCCfxONQoVGQXq2DJ2DxaVeKeWubK2FzHjG03w?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -5.91125,54.8921944444444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sallagh Braes</name>
+        <description><![CDATA[Brother Ray's Camp<br><br>The Hound is recuperating and helping to build a new seven-sided sept with a group of pacifist religious folks led by Brother Ray in episode 6x07 "The Broken Man".]]></description>
+        <styleUrl>#icon-503-7C3592</styleUrl>
+        <Point>
+          <coordinates>
+            -5.90827777777781,54.8779166666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shillanavogy Valley</name>
+        <description><![CDATA[<img src="https://doc-0k-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/2apmj4hfuu313juq184n4jk97s/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzyfh-fw9e09N2hfFo03ltSmxjM-tDLwF_GB11XmzxFcjXBJ85FtNjeEQRkYFNDKQpMXiFzVsUus3__VfgEtNsZqhFfIwQQQxGgSs0LDHNWTMepAqFWKfV27hDRAlH1UZb5sIb9F-1ZmT1bzMAnHj0zvnnadzqoJ_Rj6I61vVJW210bJUJSOGNyr5NHcfQ?session=0&fife" height="200" width="auto" /><br><br>Dothraki Sea in season 1]]></description>
+        <styleUrl>#icon-503-7C3592</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/2apmj4hfuu313juq184n4jk97s/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzyfh-fw9e09N2hfFo03ltSmxjM-tDLwF_GB11XmzxFcjXBJ85FtNjeEQRkYFNDKQpMXiFzVsUus3__VfgEtNsZqhFfIwQQQxGgSs0LDHNWTMepAqFWKfV27hDRAlH1UZb5sIb9F-1ZmT1bzMAnHj0zvnnadzqoJ_Rj6I61vVJW210bJUJSOGNyr5NHcfQ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.04449999999997,54.8643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lough Neagh </name>
+        <description><![CDATA[Jorah and Tyrion are washed up on the beach after barely escaping the stonemen on their journey through Volantis in episode 5x05 "Kill the Boy".<br><br>Tyrion and Jorah share a meal and talk about their families while traveling up the coast in episode 5x06 "Unbowed, Unbent, Unbroken".]]></description>
+        <styleUrl>#icon-503-7C3592</styleUrl>
+        <Point>
+          <coordinates>
+            -6.25813888888888,54.72575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bridge over river Maine</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/ANkjSgELrj9SHJMeuamWHj1-cqVV5ibhvk91jKUhG7Cog_NgLebkNXqiOfodeGlOD1XOSQ6wWlmC4OEJ7gA5RdRpSzO7J1a62qOFaCS6eotUlzb4WMPYHNKgxyH13rZ2oUUfvsH5XCsnzI-27OmTrSuE5KrWy8Iz2fRSkx4B7zWY3EUhfV16" height="200" width="auto" /><br><br><br><br><img src="https://lh3.googleusercontent.com/umsh/ANkjSgFd-LzOhgfw3F6JF8I_gDcVFm1TCuIg6jA38ixikkasusvyTFCEnAyxzEE_KmtjgXZxZkNdRZZXdhmDZN4mY0XLfI4vyRXYya-PsIKW4fFZOhGtpY5VpT0FNbJtw8dZh4PyXyo79_KmXpzLHLShPr-Sgm6T6RO_sMfIYUykh3XCbbJBD0ff2Drh" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-503-7C3592</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/ANkjSgELrj9SHJMeuamWHj1-cqVV5ibhvk91jKUhG7Cog_NgLebkNXqiOfodeGlOD1XOSQ6wWlmC4OEJ7gA5RdRpSzO7J1a62qOFaCS6eotUlzb4WMPYHNKgxyH13rZ2oUUfvsH5XCsnzI-27OmTrSuE5KrWy8Iz2fRSkx4B7zWY3EUhfV16 https://lh3.googleusercontent.com/umsh/ANkjSgFd-LzOhgfw3F6JF8I_gDcVFm1TCuIg6jA38ixikkasusvyTFCEnAyxzEE_KmtjgXZxZkNdRZZXdhmDZN4mY0XLfI4vyRXYya-PsIKW4fFZOhGtpY5VpT0FNbJtw8dZh4PyXyo79_KmXpzLHLShPr-Sgm6T6RO_sMfIYUykh3XCbbJBD0ff2Drh</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.30153900000005,54.726092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Toome Canal</name>
+        <description><![CDATA[<img src="https://doc-0g-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/021d3hs1ngvbrv48ivftk3vuhg/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzxHut-WXTD-BsIbOGEu_OIgwsYNWmq92Lp8LFGrTfACfOi1QRpOSYFN0olwmrHmRJ4qeZuFvBEvU37coiQhsIHcw4LPynIC5BU6GZMeRsnDhxrKPXxQjf64ZV5IyflSBeOpUVa5XYs2FeyIZC40hrSNknjlgljVce9M6p8dZn_NFVIXCSJ1XCxkBalBVw?session=0&fife" height="200" width="auto" /><br><br>Tyrion and Jorah are sailing through Volantis in episode 5x05 "Kill the Boy".]]></description>
+        <styleUrl>#icon-503-7C3592</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/021d3hs1ngvbrv48ivftk3vuhg/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzxHut-WXTD-BsIbOGEu_OIgwsYNWmq92Lp8LFGrTfACfOi1QRpOSYFN0olwmrHmRJ4qeZuFvBEvU37coiQhsIHcw4LPynIC5BU6GZMeRsnDhxrKPXxQjf64ZV5IyflSBeOpUVa5XYs2FeyIZC40hrSNknjlgljVce9M6p8dZn_NFVIXCSJ1XCxkBalBVw?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.4643055555556,54.7536111111111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

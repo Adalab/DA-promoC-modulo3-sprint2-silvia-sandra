@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Game of Thrones filming locations in Iceland</name>
+    <description><![CDATA[Our complete Game of Thrones filming locations guide on our website: http://www.fangirlquest.com/filming-locations/game-of-thrones/<br><br>This map is under construction - more locations and details added soon!<br><br>Sources: Game of Thrones Wikia, Google, several articles]]></description>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Iceland filming locations</name>
+      <Placemark>
+        <name>Snæfellsjökull</name>
+        <description>(Exact coordinates unconfirmed)  Fist of the First Men</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -23.7730967,64.8057023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Svínafellsjökull</name>
+        <description>(Exact coordinates unconfirmed)  Fist of the First Men</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -16.8214783,64.0185923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Höfðabrekkuheiði</name>
+        <description>(Exact coordinates unconfirmed) Fist of the First Men, harsh frozen mounts of the Frostfangs (season 1)</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -18.9744652,63.4431998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grjótagjá cave</name>
+        <description>This is said to be the place where Jon Snow and Ygritte have sex, but when we visited, it looked nothing alike. The scene was actually filmed in a studio but maybe Grjótagjá served as inspiration for their love cave? TBC. </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -16.8815665,65.6271251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dimmuborgir</name>
+        <description><![CDATA[Mance Rayder's wildling army camp in season 3. (Exact coordinates unconfirmed)]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -16.9434365,65.5904856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thingvellir National Park</name>
+        <description><![CDATA[<img src="https://doc-08-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/hmimgdj10o2765g1lisben5964/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzwbqq5KzCkHWkRjmwoJcjkNvQ7tnwXWqGr_NPxHGyVaH5mib_Y2FSJ5gMYgoxBMw539IpxHZu9Z2FeppNItVDVaChC2c6HAduww6DYW8Yi67mfch5SHi5jngrAsx2aJcnIOdx8m7KvAzXsV975t3tPYTQk9R1tU-4qttld1oOeDEMPx05vlIELTKouE?session=0&fife" height="200" width="auto" /><br><br>This canyon is where the pass to the impregnable Eyrie was filmed in season 4. Both Arya Stark and The Hound and later Sansa Stark and Littlefinger can be seen here approaching the Bloody Gate. <br><br>Other parts of Arya and The Hound's journey were also filmed on the paths of Thingvellir. It's also said that some of the wildling scenes were filmed in the area as well as the sword fight between Brienne and the Hound.<br><br><img src="https://doc-0g-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/grl28fion0mbkatkgctak5hhtk/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzwj0f2r-P_NqfSDcOb59QNeK9jBK2-HwM4sYL3wAccwhmddIrLcLQVBlvoIf--QIBW0KwSg0aBJcxwHeBCsESmaPyse_lAncykId7Idq2sVYzatMJbLhGvOeyqAnOJrhgiiT2fxHn-amtvuhcIkIYRf3RSSA1W0nCKeuM66R2Tm2gk53fH8nKTuH3NNDQ?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-04-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/3e7n0gp5q83v92bcd3airjt77k/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzxCoAhmCQ8yV3xq5XpBTs6a7A3_q1TrWGEW08LSEM6FrJWoM7jEdtASZpdv37pTVTGLSA4_fRR9S8BIe1jryM_gM_ti0QkxgzyCDAegpf00VglwMKkdyhCcEF7PVrbOWHETZh6ThTcRr0UhDBtWRVVwB43YZmR1DE4hrtLu7f_bkuRPiwwkP-5O2hRerQ?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-10-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/b9kvqb555p63gvajanntuqdk0o/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzwMIZzzb6jQg5b8FdCEdeBBkYsWxLJis_HOFQc3TzstLgise_OIvuY97m5rQkP62Y605eb2ofapMggpAO2z0zO_ponxk0x444RgkRRaoBeVI6v-XubQjDUQCrgmh_M6nDGXav4SXbM_sAA7OBCnABTaBPQIR-ZvsUknhGd5-k54A4YnsnHRw1zcqYGk?session=0&fife" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/hmimgdj10o2765g1lisben5964/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzwbqq5KzCkHWkRjmwoJcjkNvQ7tnwXWqGr_NPxHGyVaH5mib_Y2FSJ5gMYgoxBMw539IpxHZu9Z2FeppNItVDVaChC2c6HAduww6DYW8Yi67mfch5SHi5jngrAsx2aJcnIOdx8m7KvAzXsV975t3tPYTQk9R1tU-4qttld1oOeDEMPx05vlIELTKouE?session=0&fife https://doc-0g-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/grl28fion0mbkatkgctak5hhtk/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzwj0f2r-P_NqfSDcOb59QNeK9jBK2-HwM4sYL3wAccwhmddIrLcLQVBlvoIf--QIBW0KwSg0aBJcxwHeBCsESmaPyse_lAncykId7Idq2sVYzatMJbLhGvOeyqAnOJrhgiiT2fxHn-amtvuhcIkIYRf3RSSA1W0nCKeuM66R2Tm2gk53fH8nKTuH3NNDQ?session=0&fife https://doc-04-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/3e7n0gp5q83v92bcd3airjt77k/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzxCoAhmCQ8yV3xq5XpBTs6a7A3_q1TrWGEW08LSEM6FrJWoM7jEdtASZpdv37pTVTGLSA4_fRR9S8BIe1jryM_gM_ti0QkxgzyCDAegpf00VglwMKkdyhCcEF7PVrbOWHETZh6ThTcRr0UhDBtWRVVwB43YZmR1DE4hrtLu7f_bkuRPiwwkP-5O2hRerQ?session=0&fife https://doc-10-78-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/b9kvqb555p63gvajanntuqdk0o/1675676700000/37xo2lw_MMLxt6l4g_H34deoWNsAgZW1/*/6AI-xGzwMIZzzb6jQg5b8FdCEdeBBkYsWxLJis_HOFQc3TzstLgise_OIvuY97m5rQkP62Y605eb2ofapMggpAO2z0zO_ponxk0x444RgkRRaoBeVI6v-XubQjDUQCrgmh_M6nDGXav4SXbM_sAA7OBCnABTaBPQIR-ZvsUknhGd5-k54A4YnsnHRw1zcqYGk?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -21.110395,64.270686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
